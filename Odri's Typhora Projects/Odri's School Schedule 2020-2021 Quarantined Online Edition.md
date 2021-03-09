@@ -1,6 +1,6 @@
 ## :open_file_folder: Odri's School Schedule *2020-2021* Quarantined *"Online"* Edition :paperclips:
 
->#### :books: Monday 
+>#### :books: Monday [8.15-16.00 WIB]
 >
 >>-​​<strong>Bahasa Indonesia</strong>  *(Indonesian Language and Literature)*
 >>
@@ -12,7 +12,7 @@
 >>
 ---
 
->#### :pencil: Tuesday
+>#### :pencil: Tuesday [8.15-17.50 WIB]
 >
 >>-<strong>Personal Research Time</strong>
 >>
