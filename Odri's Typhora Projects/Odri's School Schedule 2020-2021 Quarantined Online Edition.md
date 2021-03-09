@@ -15,33 +15,46 @@
 >#### :pencil: Tuesday
 >
 >>-<strong>Personal Research Time</strong>
+>>
 >>-<strong>Physics</strong>
+>>
 >>-<strong>Psychology</strong>
+>>
 >>-<strong>Health & Wellness</strong> _(Physical Education)_
+>>
 >>-<strong>Japanese Language</strong> _(Extra-curriculum)_
 ---
 
 >#### :notebook: Wednesday
 >
 >>-<strong>English Language</strong>
+>>
 >>-<strong>Chapel</strong>
+>>
 >>-<strong>Advisory Session</strong> *(With Homeroom class S212)*
+>>
 >>-<strong>Civics</strong>
 ---
 
 >#### :school_satchel: Thursday
 >
 >>-<strong>Personal Research Time</strong>
+>>
 >>-<strong>Epistemology</strong>  *(Philosophy)*
+>>
 >>-<strong>Sociology</strong>
+>>
 >>-<strong>Physics</strong>
 ---
 
 >#### :rocket: Friday
 >
 >>-<strong>Chemistry</strong>
+>>
 >>-<strong>Christian Studies /  Religion</strong>
+>>
 >>-<strong>Personal Research Time</strong>
+>>
 >>-<strong>Mathematics</strong>
 
 ---
