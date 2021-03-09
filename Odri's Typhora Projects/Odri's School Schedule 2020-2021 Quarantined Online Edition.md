@@ -3,8 +3,11 @@
 >#### :books: Monday 
 >
 >>-​​<strong>Bahasa Indonesia</strong>  *(Indonesian Language and Literature)*
+>>
 >>-<strong>Chemistry</strong> 
+>>
 >>-<strong>Mathematics</strong>
+>>
 >>-<strong>Sociology</strong>
 >>
 ---
