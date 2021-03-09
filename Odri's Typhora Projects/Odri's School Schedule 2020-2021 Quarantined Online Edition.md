@@ -1,4 +1,4 @@
-### :open_file_folder: Odri's School Schedule *2020-2021* Quarantined *"Online"* Edition :paperclips:
+## :open_file_folder: Odri's School Schedule *2020-2021* Quarantined *"Online"* Edition :paperclips:
 
 >#### :books: Monday 
 >
