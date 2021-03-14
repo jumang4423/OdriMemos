@@ -1,4 +1,4 @@
-![psyche](_design/psy.gif)
+![](http://i.imgur.com/Ssfp7.gif)
 
 # OdriMemos
 Odri's Notes and Memos &lt;3
