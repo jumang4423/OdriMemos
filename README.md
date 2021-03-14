@@ -1,4 +1,4 @@
-![](http://i.imgur.com/Ssfp7.gif)
+![](https://gph.is/g/Zx11Vvq.gif)
 
 # OdriMemos
 Odri's Notes and Memos &lt;3
